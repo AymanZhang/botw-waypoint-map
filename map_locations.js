@@ -14,7 +14,7 @@ var locations = [
 {"internal_name":"Location_CentralExchange", "display_name":"Exchange Ruins", "x":-744, "y":868},
 {"internal_name":"Location_ChirakaVillage", "display_name":"Goponga Village Ruins", "x":1616.68, "y":263.22},
 {"internal_name":"Location_Cohorint", "display_name":"Eventide Island", "x":4605.01, "y":3646.79},
-{"internal_name":"Location_Cokiri", "display_name":"Korok Forest", "x":427.991, "y":-2137.47},
+{"internal_name":"Location_Cokiri", "display_name":"克洛格森林", "x":427.991, "y":-2137.47},
 {"internal_name":"Location_Corosseo", "display_name":"Coliseum Ruins", "x":-1151, "y":1262.5},
 {"internal_name":"Location_DeathMountainHatago", "display_name":"Foothill Stable", "x":2613.33, "y":-1143.51},
 {"internal_name":"Location_DeathMountain_Entrance", "display_name":"Maw of Death Mountain", "x":2402.58, "y":-1320.01},
